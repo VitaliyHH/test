@@ -277,6 +277,7 @@ export default {
   }
 
   &__carousel-image {
+    border-radius: 8px;
     width: 100%;
     height: 100%;
     width: 235px;
